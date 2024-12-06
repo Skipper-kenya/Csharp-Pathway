@@ -2,8 +2,6 @@
 
 int a = 1;
 
-
-
 //long => 64-bit (large numbers)
 
 long b = 2000000000000;
