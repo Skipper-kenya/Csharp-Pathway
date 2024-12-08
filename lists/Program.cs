@@ -28,7 +28,7 @@ SORTING
 ******************************************************************************************************/
 
 var numbers = new List<int> { 1, 2, 55, 38, 23, 09, 56, 35, 89, 99 };
-numbers.Sort();
+numbers.Sort(); 
 
 foreach (var number in numbers)
 {
